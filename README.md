@@ -4,3 +4,5 @@ This repo contains my solutions to the exercises in Prof. Andrew Ng's highly-rec
 I'm still following the course right now (though I didn't officially sign up), and so I'll be posting additional notebooks as I go along.
 
 Please feel free to comment or to correct my work. Thanks.
+
+**Note**: I just noticed it now that the LaTeX equations are not properly rendered here on GitHub. I'm still looking into this and I hope I can find a way to fix this soon.
